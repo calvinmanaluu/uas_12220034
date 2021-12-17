@@ -1,3 +1,7 @@
+#NAMA : CALVIN VINSENSIUS
+#NIM  : 12220034
+#UAS
+
 from logging import PlaceHolder
 import pandas as pd
 import plotly.express as px
